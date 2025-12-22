@@ -11,6 +11,7 @@
 - Howler.js (Audio)
 - Lucide React (Icons)
 - idb-keyval (Persistence)
+- Bun (Runtime & Package Manager)
 
 ## Desktop
 
