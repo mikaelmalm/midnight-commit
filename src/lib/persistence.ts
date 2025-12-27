@@ -1,7 +1,7 @@
 import { get, set } from 'idb-keyval';
 import { useGameStore } from '@/store/gameStore';
 
-const DB_KEY = 'consultancy-tycoon-save';
+const DB_KEY = 'midnight-commit-save';
 
 export const saveGame = async () => {
   const state = useGameStore.getState();

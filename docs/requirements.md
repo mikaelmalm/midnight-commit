@@ -1,4 +1,4 @@
-Here is the Requirement Specification for "Consultancy Tycoon" (Working Title).
+Here is the Requirement Specification for "Midnight Commit" (Working Title).
 Game Design Document (GDD) & Requirements BAsed on the cabanet club from yakuza 0.
 
 1. High-Level Concept

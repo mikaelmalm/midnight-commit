@@ -1,6 +1,6 @@
 # Feature Breakdown
 
-This document breaks down the "Consultancy Tycoon" requirements into isolated development features/epics.
+This document breaks down the "Midnight Commit" requirements into isolated development features/epics.
 
 ## Phase 1: Core Engine & Data
 
