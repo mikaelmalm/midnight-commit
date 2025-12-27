@@ -6,6 +6,7 @@ export const useGameLoop = () => {
   const tick = useGameStore((state) => state.tick);
 
   useEffect(() => {
+    console.log("isPlaying", isPlaying);
     if (!isPlaying) return;
 
     const interval = setInterval(() => {

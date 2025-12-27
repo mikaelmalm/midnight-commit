@@ -2,7 +2,8 @@
 
 ## Web
 
-- Next.js (or react)
+- React
+- Bun
 - TailwindCSS
 - Shadcn UI
 - Zustand (State Management)
